@@ -9,7 +9,7 @@ terus melirik kompor. Tombol START/STOP menjeda dan melanjutkan hitungan;
 tahan tombol itu 1,5 detik untuk kembali ke mode atur dengan waktu yang
 sama seperti sebelum jalan.
 
-Video Short (60 detik): link menyusul setelah upload
+Video Short (60 detik): https://www.youtube.com/shorts/mg_tIbh7ATg
 
 ## Cara kerja
 
